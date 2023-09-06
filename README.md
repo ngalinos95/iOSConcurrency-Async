@@ -30,8 +30,9 @@ This is an iOS Swift UI app utilizing iOS Concurrency and async in order to getc
 
 
 ## Demo
-![](https://github.com/ngalinos95/iOSConcurrency-Async/blob/main/iosConc1.png)
-![](https://github.com/ngalinos95/iOSConcurrency-Async/blob/main/iosConc2.png)
+<img src="https://github.com/ngalinos95/iOSConcurrency-Async/blob/main/iosConc1.png" width="350">
+<img src="https://github.com/ngalinos95/iOSConcurrency-Async/blob/main/iosConc2.png" width="350">
+
 
 
 
